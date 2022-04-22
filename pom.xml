@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <common.project.version>1.0</common.project.version>
-        <spring.version>5.3.3</spring.version>
+        <spring.version>5.3.19</spring.version>
         <jetty.version>10.0.0</jetty.version>
         <java.version>15</java.version>
         <postgresql.version>9.4-1206-jdbc42</postgresql.version>
